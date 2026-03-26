@@ -1,0 +1,7 @@
+ipykernel
+numpy
+pandas
+streamlit
+yfinance
+nltk
+scikit-learn
